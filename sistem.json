@@ -1,8 +1,8 @@
 {
   "users": [
     {
-      "username": "admin1",
-      "password": "12345",
+      "username": "admin",
+      "password": "admin12345",
       "role": "admin"
     },
     {
@@ -11,7 +11,7 @@
       "role": "user"
     },
     {
-      "username": "premium1",
+      "username": "user2",
       "password": "12345",
       "role": "premium"
     }
